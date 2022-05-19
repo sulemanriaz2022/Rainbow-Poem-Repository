@@ -5,4 +5,4 @@ green
 blue
 purple
 black
-These are the colors of rainbow.
+white
